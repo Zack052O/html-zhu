@@ -9,6 +9,15 @@
 - JS：提供网页的交互逻辑。
 - CSS：定义网页的样式和布局。
 
+**效果如下：**
+![link](https://github.com/Zack052O/html-zhu/blob/main/%E9%A6%96%E9%A1%B5%E6%95%88%E6%9E%9C%E5%9B%BE.png)
+**第二页效果**
+![2](https://github.com/Zack052O/html-zhu/blob/main/%E7%AC%AC%E4%BA%8C%E9%A1%B5%E6%95%88%E6%9E%9C%E5%9B%BE.png)
+**第三页效果**
+![3](https://github.com/Zack052O/html-zhu/blob/main/footer%E6%95%88%E6%9E%9C%E5%9B%BE.png)
+
+
+
 ## 详细代码解释
 ### 1、HTML 结构
 本项目的 HTML 结构分为三个主要部分，每个部分占据屏幕的100%：
